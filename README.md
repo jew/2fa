@@ -10,7 +10,7 @@ MAKE SURE TO NEVER SHARE YOUR 2FA SECRET WITH OTHER PEOPLE. 2 THING SHOULD BE IN
 
 I've added a feature so you can see your upcoming code and how long's left. 
 While I've seen some apps show the duration left, I've never seen a single program show the next code which I think is such a cool feature.
-I think it's nice to show upcoming codes as some apps only let you use each code once as a security measure, and when you're trying to something where you need to authenticate each time, it's nice to be able to pretype it out so the moment it's ready you can submit it.
+I think it's nice to show upcoming codes as some apps only let you use each code once as a security measure, and when you're trying to do something where you need to authenticate each time, it's nice to be able to pretype it out so the moment it's ready you can submit it.
 
 Tried to make it presentable but this is python at the end of the day.
 
